@@ -1,0 +1,23 @@
+.bg-gradient-primary{
+    background-color: #d50c0d !important;
+    background-image: none !important;
+    
+}
+.btn-primary{
+    color: #fff;
+    background-color: #d50c0d !important;
+    border-color:#d50c0d !important;
+}
+.text-primary{
+    color: #d50c0d!important;
+}
+
+.btn-danger{
+    background-color: #888888 !important;
+    border-color: #888888 !important;
+}
+
+.page-item.active .page-link{
+    background-color: #d50c0d !important;
+    border-color: #d50c0d !important;
+}
